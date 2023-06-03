@@ -1,6 +1,8 @@
-# Welcome to this Project - Web Stacks
+# Welcome to this Project
 
-## MERN Stack
+## Web Stacks
+
+### MERN Stack
 
 - Frontend
   - React
@@ -11,7 +13,7 @@
 - Database:
   - MongoDB
 
-## MEAN Stack
+### MEAN Stack
 
 - Frontend
   - Angular
@@ -22,7 +24,7 @@
 - Database:
   - MongoDB
 
-## MEVN Stack
+### MEVN Stack
 
 - Frontend:
   - Vue
@@ -33,7 +35,7 @@
 - DataBase:
   - MongoDB
 
-## PERN Stack
+### PERN Stack
 
 - Frontend:
   - React
@@ -44,7 +46,7 @@
 - DataBase:
   - PostgreSQL
 
-## LAMP Stack
+### LAMP Stack
 
 - Web dev
   - PHP/ Python/ Perl
