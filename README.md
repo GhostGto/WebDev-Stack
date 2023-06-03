@@ -14,35 +14,35 @@ Database:
 MEAN Stack
 
 Frontend
- Angular
- TypeScript
+ -Angular
+ -TypeScript
 Backend:
- Express
- Node.js
+ -Express
+ -Node.js
 Database:
- MongoDB
+ -MongoDB
 
 MEVN Stack
 
 Frontend:
- Vue
- JavaScript or TypeScript
+ -Vue
+ -JavaScript or TypeScript
 Backend:
- Express
- Node.js
+ -Express
+ -Node.js
 DataBase:
- MongoDB
+ -MongoDB
 
 PERN Stack
 
 Frontend:
- React
- JavaScript or TypeScript
+ -React
+ -JavaScript or TypeScript
 Backend:
- Express
- Node.js
+ -Express
+ -Node.js
 DataBase:
- PostgreSQL
+ -PostgreSQL
 
 LAMP Stack
 
