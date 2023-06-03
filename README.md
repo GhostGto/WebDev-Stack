@@ -1,54 +1,54 @@
 # Welcome to this Project - Web Stacks
 
-MERN Stack
+## MERN Stack
 
-Frontend
- React
- JavaScript or TypeScript
-Backend:
- Express
- Node.js
-Database:
- MongoDB
+- Frontend
+  - React
+  - JavaScript or TypeScript
+- Backend:
+  - Express
+  - Node.js
+- Database:
+  - MongoDB
 
-MEAN Stack
+## MEAN Stack
 
-Frontend
- -Angular
- -TypeScript
-Backend:
- -Express
- -Node.js
-Database:
- -MongoDB
+- Frontend
+  - Angular
+  - TypeScript
+- Backend:
+  - Express
+  - Node.js
+- Database:
+  - MongoDB
 
-MEVN Stack
+## MEVN Stack
 
-Frontend:
- -Vue
- -JavaScript or TypeScript
-Backend:
- -Express
- -Node.js
-DataBase:
- -MongoDB
+- Frontend:
+  - Vue
+  - JavaScript or TypeScript
+- Backend:
+  - Express
+  - Node.js
+- DataBase:
+  - MongoDB
 
-PERN Stack
+## PERN Stack
 
-Frontend:
- -React
- -JavaScript or TypeScript
-Backend:
- -Express
- -Node.js
-DataBase:
- -PostgreSQL
+- Frontend:
+  - React
+  - JavaScript or TypeScript
+- Backend:
+  - Express
+  - Node.js
+- DataBase:
+  - PostgreSQL
 
-LAMP Stack
+## LAMP Stack
 
-Web dev
- PHP/ Python/ Perl
- Apache
- Linux
-Database:
- MySQL
+- Web dev
+  - PHP/ Python/ Perl
+  - Apache
+  - Linux
+- Database:
+  - MySQL
